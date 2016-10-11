@@ -13,6 +13,7 @@ non-rasterised figures that by default have a white background.
 Kevin's original code has some cool tikz figure make in. Have a look on the internal BioMedIA pages. 
 
 Christian Baumgartner (c.f.baumgartner@gmail.com)
+
 Date: 11. October 2016
 
 # Visual example

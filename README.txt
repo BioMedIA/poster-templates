@@ -1,12 +1,23 @@
-The template by Kevin Keraudren has been slightly modified to feature the biomedia logo and have a colour style consistent with the Imperial College branding. 
+## About this template
 
-Also the background of the boxes is now white which makes it easier to include non-rasterised figures that by default have a white background. 
+Customisable conference poster template with BioMedIA logo and Imperial 
+colour style.
+
+Adapted from Kevin Keraudren's template from the internal BioMedIA pages
+and from baposter/examples/ECCS2011/poster.tex 
+
+The template by Kevin Keraudren has been slightly modified to feature the biomedia 
+logo and have a colour style consistent with the Imperial College branding. 
+
+Also the background of the boxes is now white which makes it easier to include
+non-rasterised figures that by default have a white background. 
 
 Kevin's original code has some cool tikz figure make in. Have a look on the internal BioMedIA pages. 
 
 Christian Baumgartner (c.f.baumgartner@gmail.com)
+11. October 2016
 
-Original README by Kevin:
+## Original README by Kevin:
 
 The present poster has been written using the "baposter" Latex class available at:
 http://www.brian-amberg.de/uni/poster/

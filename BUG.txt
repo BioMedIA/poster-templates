@@ -1,0 +1,12 @@
+Kevin Keraudren, 2012-06-22
+
+In "baposter.cls", requiring the package xcolor with the cmyk color does not
+produce the expected RGB values in when defining colors with
+\definecolor{name}{RGB}{102,102,153}
+
+So the following line should be commented:
+\RequirePackage[cmyk]{xcolor}
+
+or the "cmyk" option removed.
+
+#####

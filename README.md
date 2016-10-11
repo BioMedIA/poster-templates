@@ -1,4 +1,4 @@
-## About this template
+# About this template
 
 Customisable conference poster template with BioMedIA logo and Imperial 
 colour style.
@@ -17,7 +17,11 @@ Kevin's original code has some cool tikz figure make in. Have a look on the inte
 Christian Baumgartner (c.f.baumgartner@gmail.com)
 11. October 2016
 
-## Original README by Kevin:
+# Visual example
+
+![](thumbnail.png)
+
+# Original README by Kevin:
 
 The present poster has been written using the "baposter" Latex class available at:
 http://www.brian-amberg.de/uni/poster/

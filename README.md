@@ -9,8 +9,10 @@ and from baposter/examples/ECCS2011/poster.tex
 The template by Kevin Keraudren has been slightly modified to feature the biomedia 
 logo and have a colour style consistent with the Imperial College branding. 
 Also the background of the boxes is now white which makes it easier to include
-non-rasterised figures that by default have a white background.
-Kevin's original code has some cool tikz figure make in. Have a look on the internal BioMedIA pages. 
+non-rasterised figures that by default have a white background. Lastly, I tried
+to make it as easy as possible to customise the colours of everything. 
+Kevin's original code has some cool tikz figure magic which I didn't use. 
+His template is still available on the internal BioMedIA pages. 
 
 Christian Baumgartner (c.f.baumgartner@gmail.com)
 
